@@ -5,8 +5,8 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere ab repellat dolo
 
 ## Sample Output
 
-
 ## Source Code
+![Code Sample]("LabTask1/code.png">)
 
 
 
