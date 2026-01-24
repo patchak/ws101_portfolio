@@ -24,5 +24,5 @@ I am a friendly and kind person who loves to learn new things. I enjoy spending 
 😂 Sharing memes and funny coding moments.
 
 ## 🌟 My Projects
-📂 Midterm Lab Task 1 - [Resume writing Using HTML]()   
+📂 Midterm Lab Task 1 - [Resume writing Using HTML](LabTask1/test.md)   
 📂 Midterm Lab Task 2 - [Using Tables and Lists in HTML]()
