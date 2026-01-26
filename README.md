@@ -14,7 +14,7 @@ I am a friendly and kind person who loves to learn new things. I enjoy spending 
 - College: Bachelor of Science in COmputer Science (HAU)
 - High School:Holy Angel University
 - Elementary
-## ❤️ I Love:
+## ❤️ I Love
 ☕ Coffee – it's my fuel for productivity!
 🎮 Playing video games and grinding for hours.
 🎧 Listening to music while working
